@@ -1,5 +1,3 @@
-# youtube_downloader_app.py
-
 import streamlit as st
 from pytube import YouTube
 import os
